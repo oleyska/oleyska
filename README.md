@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @oleyska
 - 👀 I’m interested in C++,Powershell,Javascript
-- 🌱 I’m currently wanting to learning Rust.
-- 💞️ I’m looking to collaborate on Stuff I guess
-- 📫 How to reach me https://twitter.com/oleyska
 - I will release even my worst offenders at times.
 
 
